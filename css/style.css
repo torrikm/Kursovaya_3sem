@@ -78,7 +78,7 @@ a {
   text-decoration: none;
 }
 .screen-1 {
-  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(../img/page1.png);
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.4)), url(../img/page1.webp);
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
@@ -309,7 +309,7 @@ a {
   order: -1;
 }
 .explore-and-numbers {
-  background: url(../img/mountain.png);
+  background: url(../img/mountain.webp);
   background-repeat: no-repeat;
   height: 2208px;
   background-size: cover;
@@ -486,7 +486,7 @@ a {
   transition: all 0.5s ease;
 }
 .video {
-  background: url(../img/hugo-matilla-EFuCATqfblI-unsplash\ 1.png), url(../img/Rectangle\ 1272.png);
+  background: url(../img/hugo-matilla-EFuCATqfblI-unsplash\ 1.webp), url(../img/Rectangle\ 1272.webp);
   min-height: 1476px;
   background-size: cover;
   background-position: center center;
