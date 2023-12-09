@@ -1,6 +1,6 @@
 .button_top {
   padding: 20px;
-  background-color: #DD2242;
+  background-color: #dd2242;
   color: #FFF;
   display: flex;
   width: 180px;
@@ -19,7 +19,7 @@
 }
 .button_top:hover {
   background-color: #FFF;
-  color: #DD2242;
+  color: #dd2242;
   transition: all 0.5s ease;
 }
 .h1 {
@@ -167,7 +167,7 @@ a {
   flex-shrink: 0;
   border-radius: 211px;
   border: 0;
-  background: #DD2242;
+  background: #dd2242;
   color: rgba(255, 255, 255, 0.8);
   text-align: center;
   font-family: 'DM Sans', sans-serif;
@@ -178,7 +178,7 @@ a {
 }
 .screen-1 .screen-1__article .article__button:hover {
   background-color: rgba(255, 255, 255, 0.8);
-  color: #DD2242;
+  color: #dd2242;
   transition: all 0.5s ease;
 }
 .screen-1 .hero {
@@ -283,7 +283,7 @@ a {
 }
 .articles .articles__inf .articles__inf_card .articles__inf_card1 .button {
   padding: 20px;
-  background-color: #DD2242;
+  background-color: #dd2242;
   color: #FFF;
   display: flex;
   width: 180px;
@@ -302,7 +302,7 @@ a {
 }
 .articles .articles__inf .articles__inf_card .articles__inf_card1 .button:hover {
   background-color: #FFF;
-  color: #DD2242;
+  color: #dd2242;
   transition: all 0.5s ease;
 }
 #card_order {
@@ -463,7 +463,7 @@ a {
 }
 .map .button {
   padding: 20px;
-  background-color: #DD2242;
+  background-color: #dd2242;
   color: #FFF;
   display: flex;
   width: 180px;
@@ -482,7 +482,7 @@ a {
 }
 .map .button:hover {
   background-color: #FFF;
-  color: #DD2242;
+  color: #dd2242;
   transition: all 0.5s ease;
 }
 .video {
@@ -708,7 +708,7 @@ a {
 }
 .getting-there .getting-there__top .getting-there__top__table .inf .inf__text .button {
   padding: 20px;
-  background-color: #DD2242;
+  background-color: #dd2242;
   color: #FFF;
   display: flex;
   width: 180px;
@@ -727,7 +727,7 @@ a {
 }
 .getting-there .getting-there__top .getting-there__top__table .inf .inf__text .button:hover {
   background-color: #FFF;
-  color: #DD2242;
+  color: #dd2242;
   transition: all 0.5s ease;
 }
 .getting-there .getting-there__top .getting-there__top__table .inf .inf__text .inf__photo {
